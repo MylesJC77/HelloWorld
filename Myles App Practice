@@ -1,0 +1,13 @@
+let mylesApp = "Myles App"
+let developerName = "Myles"
+let initialReleaseYear = 2024
+var currentVersion : Double = 1.16
+var numberOfDownloads = 2000
+var userRating = 4.5
+
+print("App Name: \(mylesApp)")
+print("Developer: \(developerName)")
+print("Release Year: \(initialReleaseYear)")
+print("Version: \(currentVersion)")
+print("Downloads: \(numberOfDownloads)")
+print("Rating: \(userRating)")
